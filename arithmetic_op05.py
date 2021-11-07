@@ -5,5 +5,5 @@
  
 #Print the answer
 number=10
-answer=number/3
+answer=number%3
 print(answer)
