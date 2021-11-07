@@ -10,3 +10,10 @@
 
 #print the sum of the three digits.
 
+number=123
+n1=number%10
+number//=10
+n2=number%10
+n3=number//10
+answer=n1+n2+n3
+print(answer)
